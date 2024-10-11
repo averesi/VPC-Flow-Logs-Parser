@@ -7,6 +7,7 @@ This project parses flow log data and maps each row to a tag based on a lookup t
 The files lookup_table.csv and flow_logs.txt were custom generated, with the flow logs following Version 2 of VPC flow log records and adhering to the default format for version 2 logs.
 
 Prerequisites
+
 Python 3.x should be installed on your machine.
 The input files flow_logs.txt and lookup_table.csv should be present in the data/ directory.
 
