@@ -9,7 +9,6 @@ The files lookup_table.csv and flow_logs.txt were custom generated, with the flo
 # Prerequisites
 
 1. Python 3.x should be installed on your machine.
-
 2. The input files flow_logs.txt and lookup_table.csv should be present in the data/ directory.
 
 # How to Run the Project
