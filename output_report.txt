@@ -1,0 +1,11 @@
+Tag Counts:
+Tag,Count
+service2,2
+service1,1
+Untagged,49997
+
+Port/Protocol Combination Counts:
+Port,Protocol,Count
+50476,esp,1
+65247,ip,1
+51387,esp,1
